@@ -1,0 +1,62 @@
+{"allRoundData":[{"name":"Animals","timeLimitInSeconds":60,"pointsAddedForCorrectAnswer":10,
+"questions":[
+{"questionText":"Which animal lays eggs?","answers":[
+{"answerText":"Dog","isCorrect":false},
+{"answerText":"Cat","isCorrect":false},
+{"answerText":"Duck","isCorrect":true},
+{"answerText":"Sheep","isCorrect":false}]},
+
+{"questionText":"A male cow is called?","answers":[
+{"answerText":"Ox","isCorrect":true},
+{"answerText":"Dog","isCorrect":false},
+{"answerText":"Sheep","isCorrect":false},
+{"answerText":"Monkey","isCorrect":false}]},
+
+{"questionText":"All animals need food, air, and ____ to survive.","answers":[
+{"answerText":"House","isCorrect":false},
+{"answerText":"Water","isCorrect":true},
+{"answerText":"Chocolate","isCorrect":false},
+{"answerText":"Fruits","isCorrect":false}]},
+
+{"questionText":"Which one is a fur-bearing animal?","answers":[
+{"answerText":"Hen","isCorrect":false},
+{"answerText":"Crocodile","isCorrect":false},
+{"answerText":"Tortoise","isCorrect":false},
+{"answerText":"Cat","isCorrect":true}]},
+
+{"questionText":"What is Earth only natural satellite?","answers":[
+{"answerText":"Sun","isCorrect":false},
+{"answerText":"Mars","isCorrect":false},
+{"answerText":"Venus","isCorrect":false},
+{"answerText":"Moon","isCorrect":true}]},
+
+{"questionText":"The tree has a branch filled with green _____.","answers":[
+{"answerText":"Hair","isCorrect":false},
+{"answerText":"Root","isCorrect":false},
+{"answerText":"Leaves","isCorrect":true},
+{"answerText":"Trunk","isCorrect":false}]},
+
+{"questionText":"What part of the body helps you move?","answers":[
+{"answerText":"Eyes","isCorrect":false},
+{"answerText":"Lungs","isCorrect":false},
+{"answerText":"Pancreas","isCorrect":false},
+{"answerText":"Muscles","isCorrect":true}]},
+
+{"questionText":"The two holes of the nose are called?","answers":[
+{"answerText":"Eyelids","isCorrect":false},
+{"answerText":"Nostrils","isCorrect":true},
+{"answerText":"Nails","isCorrect":false},
+{"answerText":"Hair","isCorrect":false}]},
+
+{"questionText":"What star shines in the day and provides light?","answers":[
+{"answerText":"Moon","isCorrect":false},
+{"answerText":"Venus","isCorrect":false},
+{"answerText":"Mars","isCorrect":false},
+{"answerText":"Sun","isCorrect":true}]},
+
+
+{"questionText":"Legs have feet and arms have ___.","answers":[
+{"answerText":"Ankles","isCorrect":false},
+{"answerText":"Pelvis","isCorrect":false},
+{"answerText":"Hands","isCorrect":true},
+{"answerText":"Skull","isCorrect":false}]}]}]}
